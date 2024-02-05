@@ -11,6 +11,6 @@ app.get('/', (req, res) => {
   })
 })
 
-app.listen(6002, ()=> {
-  console.log("Products server is running on Port Number: 6002")
+app.listen(8002, ()=> {
+  console.log("Products server is running on Port Number: 8002")
 })
